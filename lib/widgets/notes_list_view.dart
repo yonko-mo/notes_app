@@ -5,7 +5,6 @@ import 'package:notes_app/models/note_model.dart';
 import 'package:notes_app/widgets/note_item.dart';
 
 class NotesListView extends StatelessWidget {
-  final data = const [Color(0xffffcb7a)];
   const NotesListView({super.key});
 
   @override
